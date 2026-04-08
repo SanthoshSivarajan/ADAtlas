@@ -130,7 +130,19 @@ Issues and pull requests welcome. Please test changes against a real (lab) fores
 - GitHub: [https://github.com/SanthoshSivarajan/ADAtlas](https://github.com/SanthoshSivarajan/ADAtlas)
 
 ---
+## Screenshots
 
+### Executive Summary
+![Executive Summary](screenshots/Summary.jpg)
+
+### Per-Domain Section
+![Domain Section](screenshots/Chart-1.jpg)
+
+### Forest-Wide Charts
+![Charts](screenshots/Diagram-1.jpg)
+
+### Summary
+![Charts](screenshots/AD.jpg)
 ## License
 
 [MIT](LICENSE) — free to use, modify, and distribute.
