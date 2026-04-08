@@ -4,7 +4,7 @@
 
 ADAtlas is a single-file PowerShell script that produces a self-contained, interactive HTML map of an Active Directory forest. It is the visual companion to [ADCanvas](https://github.com/SanthoshSivarajan/ADCanvas) — where ADCanvas focuses on health, ADAtlas focuses purely on **what your AD looks like right now**.
 
-No health checks. No analysis. No scoring. Just an honest, complete picture of the current configuration.
+No health checks. No analysis. No scoring. Just a complete picture of the current configuration.
 
 ---
 
