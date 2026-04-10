@@ -133,16 +133,29 @@ Issues and pull requests welcome. Please test changes against a real (lab) fores
 ## Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/Summary.jpg)
+![Executive Summary](screenshots/1.jpg)
 
-### Per-Domain Section
-![Domain Section](screenshots/Chart-1.jpg)
+### Forest & Domain Map
+![Domain Section](screenshots/2.jpg)
 
-### Forest-Wide Charts
-![Charts](screenshots/Diagram-1.jpg)
+### Trust Map
+![Charts](screenshots/3.jpg)
 
-### Summary
-![Charts](screenshots/AD.jpg)
+### Replication Topology
+![Charts](screenshots/4.jpg)
+
+### DNS Architecure
+![Charts](screenshots/5.jpg)
+
+### NTP Hierarchy
+![Charts](screenshots/6.jpg)
+
+### Certificate Services (PKI)
+![Charts](screenshots/7.jpg)
+
+### Exchange Architecture
+![Charts](screenshots/8.jpg)
+
 ## License
 
 [MIT](LICENSE) — free to use, modify, and distribute.
